@@ -1,17 +1,8 @@
-.flip-box {
-	width: 200px;
-	height: 200px;
-	margin: 0 auto;
-	background: green;
-	transform-origin: center top;
-}
-
-.big {
-	width: 300px;
+.mine {
+	background: orange;
 	height: 300px;
 }
 
-.animate {
-	transition: transform 0.05s;
-	transition-delay: 0.0s;
+.parent {
+	margin-top: 100px;
 }
